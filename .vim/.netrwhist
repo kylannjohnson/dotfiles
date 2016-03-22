@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/knjohn/code/stash-wrangler'
+let g:netrw_dirhist_2='/Users/knjohn/code/com.americanexpress.android.acctsvcs.us/build'
+let g:netrw_dirhist_3='/private/var/folders/7r/lg_y56q16md4p92q9gllwjv4z2dxbr/T/screenshotsYZQVrw'
+let g:netrw_dirhist_4='/Users/knjohn/code/com.americanexpress.android.acctsvcs.us/shell_helpers'
